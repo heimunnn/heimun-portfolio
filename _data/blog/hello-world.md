@@ -3,8 +3,10 @@ template: BlogPost
 path: /hello-world
 date: 2020-02-20T07:08:53.137Z
 title: Hello World
-thumbnail: ''
-metaDescription: Meta description for Hello World
+thumbnail: /assets/peru_hm.jpg
+metaDescription: My very first post!
 ---
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique fugiat delectus pariatur blanditiis nulla soluta ratione nostrum, harum maiores adipisci a quod nobis cupiditate quae odit unde qui sit consequuntur.
+Hi there! My name is Hei Mun and I am a website & digital media designer that has dabbled in graphic design and website development work. I graduated with a degree in Computing Science and recently just completed a Specialist Diploma course with SP on User Experience and Product Design. 
+
+
